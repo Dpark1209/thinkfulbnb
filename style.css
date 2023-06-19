@@ -108,7 +108,6 @@ form label {
   font-weight: bold;
   flex: 1;
   margin: 10px;
-  margin-bottom: 0px;
 }
 
 form select,
@@ -161,13 +160,12 @@ footer p {
   }
 
   .logo {
-    font-size: 72px;
+    font-size: 36px;
   }
 
   .form-group {
     flex-direction: column;
     min-width: 0;
-    max-width: 480px;
   }
 
   .group {
